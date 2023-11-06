@@ -1,5 +1,7 @@
 *.txt
 *.pdf
 *.ini
+*.msi
+*.cer
 test_environment/
 gal-azr-backend-colsubsidio-handler-develop/
